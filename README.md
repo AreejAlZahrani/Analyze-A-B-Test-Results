@@ -8,17 +8,18 @@ For this project, you will be working to understand the results of an A/B test r
 
 
 # Good links
-https://adespresso.com/guides/facebook-ads-optimization/ab-testing/
-https://www.designforfounders.com/ab-testing-examples/
-https://www.optimizely.com/optimization-glossary/ab-testing/
+* https://adespresso.com/guides/facebook-ads-optimization/ab-testing/
+* https://www.designforfounders.com/ab-testing-examples/
+* https://www.optimizely.com/optimization-glossary/ab-testing/
 
-Some stats on A/B testing:
-https://www.abtasty.com/blog/learn-from-5-ab-test-case-studies/
+* Some stats on A/B testing:
+* https://www.abtasty.com/blog/learn-from-5-ab-test-case-studies/
 
-Khan Academy videos on Hypothesis: https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample/more-significance-testing-videos/v/hypothesis-testing-and-p-values
+* Khan Academy videos on Hypothesis: 
+* https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample/more-significance-testing-videos/v/hypothesis-testing-and-p-values
 
-OLS Regression: Scikit vs. Statsmodels?
-https://stackoverflow.com/questions/22054964/ols-regression-scikit-vs-statsmodels
+* OLS Regression: Scikit vs. Statsmodels?
+* https://stackoverflow.com/questions/22054964/ols-regression-scikit-vs-statsmodels
 
-Interpreting Results from Linear Regression
-https://www.accelebrate.com/blog/interpreting-results-from-linear-regression-is-the-data-appropriate/
+* Interpreting Results from Linear Regression
+* https://www.accelebrate.com/blog/interpreting-results-from-linear-regression-is-the-data-appropriate/
